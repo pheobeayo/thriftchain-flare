@@ -2,6 +2,7 @@ import React from "react";
 import heroImg from "../../assets/hero.svg";
 import token from "../../assets/naira.svg";
 import token2 from "../../assets/usdc.svg";
+import { motion } from "framer-motion";
 
 
 const bouncingVariants = {
