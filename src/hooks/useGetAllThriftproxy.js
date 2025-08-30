@@ -1,17 +1,11 @@
-import {
-  createContext,
-  useCallback,
-  useContext,
-  useEffect,
-  useState,
-} from "react";
+import {useCallback,useEffect,useState} from "react";
 import ABI from "../constants/abi.json";
 import { useAppKitAccount } from "@reown/appkit/react";
 import { Contract, Interface } from "ethers";
 import multicallAbi from "../constants/multicallabi.json";
 import useContractInstance from "./useContractInstance";
 import useSignerOrProvider from "./useSignerOrProvider";
-import { JsonRpcProvider } from "ethers";
+
 
 const useGetAllThriftproxy = () => {
   const [singleUser, setSingleUser] = useState([]);

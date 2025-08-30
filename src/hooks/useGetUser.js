@@ -1,7 +1,7 @@
 import { useCallback } from "react";
 import useContractInstance from "./useContractInstance";
 import { useAppKitAccount, useAppKitNetwork } from "@reown/appkit/react";
-import { coreTestnet2 } from "@reown/appkit/networks";
+import { flareTestnet } from "@reown/appkit/networks";
 import { toast } from "react-toastify";
 import { ErrorDecoder } from "ethers-decode-error";
 import abi from "../constants/abi.json";
@@ -24,7 +24,7 @@ const useGetUser = () => {
         return;
       }
 
-      if (Number(chainId) !== Number(coreTestnet2.id)) {
+      if (Number(chainId) !== Number(flareTestnet.id)) {
         toast.error("You're not connected to Core Testnet2");
         return;
       }
