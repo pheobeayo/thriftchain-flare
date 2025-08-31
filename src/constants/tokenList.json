@@ -1,45 +1,45 @@
 {
-    "0x38b0917178b0C07bEAAf9c6255Ad97C1c9D984EE": {
-        "name": "MockToken",
-        "symbol": "MTK",
+    "0xC67DCE33D7A8efA5FfEB961899C73fe01bCe9273": {
+        "name": "Wrapped Coston2Flare",
+        "symbol": "WC2FLR",
         "decimals": 18,
-        "address": "0x38b0917178b0C07bEAAf9c6255Ad97C1c9D984EE"
+        "address": "0xC67DCE33D7A8efA5FfEB961899C73fe01bCe9273"
     },
 
-    "0x546a07F7E5Ec6EAf22201486b4116cF87aE170aa": {
-        "name": "WrappedBitCoin",
-        "symbol": "wBTC",
+    "0xA40F6AF5A9b43E4E713A4e3f4d71C918933916a3": {
+        "name": "Pixel Shard",
+        "symbol": "PXLs",
         "decimals": 18,
-        "address": "0x546a07F7E5Ec6EAf22201486b4116cF87aE170aa"
+        "address": "0xA40F6AF5A9b43E4E713A4e3f4d71C918933916a3"
     },
-    "0xa570d6A7310b1D62848a7C64A33d65b208199ebe": {
-        "name": "TestCoin",
-        "symbol": "TEST",
+    "0x8b4abA9C4BD7DD961659b02129beE20c6286e17F": {
+        "name": "FTestXRP",
+        "symbol": "FXRP",
         "decimals": 18,
-        "address": "0xa570d6A7310b1D62848a7C64A33d65b208199ebe"
+        "address": "0x8b4abA9C4BD7DD961659b02129beE20c6286e17F"
     }, 
-    "0xD334C474B7F5C2dD3cD5de75858229bA8Ba87196":{
-        "name": "TetherUSD",
+    "0xC1A5B41512496B80903D1f32d6dEa3a73212E71F":{
+        "name": "USDT0 test",
+        "symbol": "USD₮0",
+        "decimals": 18,
+        "address": "0xC1A5B41512496B80903D1f32d6dEa3a73212E71F"
+    },
+    "0xAC6e1c5fdc401ddcC554f7c06dc422152dEb3cB7":{
+        "name": "USDT Token",
         "symbol": "USDT",
         "decimals": 18,
-        "address": "0xD334C474B7F5C2dD3cD5de75858229bA8Ba87196"
+        "address": "0xAC6e1c5fdc401ddcC554f7c06dc422152dEb3cB7"
     },
-    "0x6C475841d1D7871940E93579E5DBaE01634e17aA":{
-        "name": "ChainLinkToken",
-        "symbol": "LINK",
+    "0xf3187D2115171708fca10f1A11c522172d7Ec2d5":{
+        "name": "ETH Token",
+        "symbol": "ETH",
         "decimals": 18,
-        "address": "0x6C475841d1D7871940E93579E5DBaE01634e17aA"
+        "address": "0xf3187D2115171708fca10f1A11c522172d7Ec2d5"
     },
-    "0xc0CE50D42f97869B135B25b6071E2A24Cee7aA15":{
-        "name": "MockUsdcCoin",
-        "symbol": "mUSDC",
+    "0x55d8a63D76449654cb28Dd697855FfB676F09F35":{
+        "name": "Test Token",
+        "symbol": "TEST",
         "decimals": 18,
-        "address": "0xc0CE50D42f97869B135B25b6071E2A24Cee7aA15"
-    },
-    "0x6924a3828952867F713D25a949D34B81c9836653":{
-        "name": "LiquidStakedCore",
-        "symbol": "stCORE",
-        "decimals": 18,
-        "address": "0x6924a3828952867F713D25a949D34B81c9836653"
+        "address": "0x55d8a63D76449654cb28Dd697855FfB676F09F35"
     }
 }
